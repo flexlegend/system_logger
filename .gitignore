@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Project1
+/Project1/Project1.vcxproj.user
+/Project1/Project1.vcxproj.filters
+/Project1/log.txt
+/Project1/x64/Debug
