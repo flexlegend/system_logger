@@ -7,3 +7,9 @@
 /Project1/Project1.vcxproj.filters
 /Project1/log.txt
 /Project1/x64/Debug
+/Logger/x64/Debug
+/Logger/log.txt
+/Logger/Logger.vcxproj.filters
+/Logger/Logger.vcxproj.user
+/x64/Debug
+/vcpkg
